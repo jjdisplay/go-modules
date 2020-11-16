@@ -1,5 +1,5 @@
 package myutil
 
 func GetMyPackageName() string {
-	return "myutil package"
+	return "hello james, myutil package"
 }
